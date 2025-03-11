@@ -90,5 +90,3 @@ Antes de clonar el proyecto, asegúrate de tener lo siguiente instalado en tu m�
 
 ---
 
-🎉 **¡Listo! Ya puedes trabajar en el proyecto junto con el equipo.**
-
