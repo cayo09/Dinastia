@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_diffuse_0: 3032577765602271176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

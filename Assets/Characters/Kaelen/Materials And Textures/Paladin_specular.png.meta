@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_specular_0: -849395629639098152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
